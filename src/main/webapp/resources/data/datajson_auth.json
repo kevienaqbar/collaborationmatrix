@@ -1,0 +1,274 @@
+{
+  "datejson": "2018-05-17 20:41:36.687",
+  "nodes": [
+    {
+      "name": "Kamtono"
+    },
+    {
+      "name": "Praptisih"
+    },
+    {
+      "name": "Basyar, M. Hamdan"
+    },
+    {
+      "name": "Sihbudi, Riza"
+    },
+    {
+      "name": "Samego, Indria"
+    },
+    {
+      "name": "Yanuarti, Sri"
+    },
+    {
+      "name": "Widiyanto, Kristiawan"
+    },
+    {
+      "name": "Winduhutomo, Sueno"
+    },
+    {
+      "name": "Sitohang, Japanton"
+    },
+    {
+      "name": "Sumantri, Juke"
+    },
+    {
+      "name": "Anwar, Dewi Fortuna"
+    },
+    {
+      "name": "Bhakti, Ikrar Nusa"
+    },
+    {
+      "name": "Sarah, Dwi"
+    },
+    {
+      "name": "Soebowo, Eko"
+    },
+    {
+      "name": "Puswanto, Eko"
+    },
+    {
+      "name": "Inayati, Ratna Shofi"
+    },
+    {
+      "name": "Irewati, Awani"
+    },
+    {
+      "name": "Dam, Syamsumar"
+    },
+    {
+      "name": "Haris, Syamsuddin"
+    },
+    {
+      "name": "Romli, Lili"
+    },
+    {
+      "name": "Raharjo, Puguh Dwi"
+    },
+    {
+      "name": "Nuraini, Lutviasari"
+    },
+    {
+      "name": "Priyotomo, Gadang"
+    },
+    {
+      "name": "Rahman, Agus R."
+    },
+    {
+      "name": "Kim, Se-Kwon"
+    },
+    {
+      "name": "Pangestuti, Ratih"
+    },
+    {
+      "name": "Said, Djamhuriyah S."
+    },
+    {
+      "name": "Triyanto"
+    },
+    {
+      "name": "Bakti, Hendra"
+    },
+    {
+      "name": "Lubis, Rachmat Fajar"
+    },
+    {
+      "name": "Mayasari, Novi"
+    },
+    {
+      "name": "Anwar, Moch. Syaiful"
+    },
+    {
+      "name": "Mabruri, Efendi"
+    },
+    {
+      "name": "Anggono, Titi"
+    },
+    {
+      "name": "Syuhada"
+    },
+    {
+      "name": "Indarto, Sri"
+    },
+    {
+      "name": "Sudarsono"
+    },
+    {
+      "name": "Murniasih, Tutik"
+    },
+    {
+      "name": "Putra, Masteria Yunovilsa"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 21,
+      "keyword": "TOC {7} | batuan induk {4} | hidrokarbon {3} | batulempung {3} | Hidrokarbon {3} | HI {2} | Formasi Jatiluhur {2} | Batulempung {2} | Batuan Induk {2} | Karawang {2} | fasies {2} | Formasi Cinambo {2} | Tmaks {1} | Sukabumi {1} | anamali gayaberat {1} | claystone {1} | turbidit {1} | anomali sisa {1} | porositas {1} | Jatiluhur Formation {1} | Batuan karbonat {1} | sistem submarine fan {1} | Bogor {1} | lingkungan {1} | hydrocarbon {1} | source rock {1} | Batuan Sumber {1} | batu lempung {1} | Formasi Batuasih {1} | perangkap hidrokarbon {1} | model 2-D {1} | Batu Lempung {1} | Formasi Halang {1} | "
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 20,
+      "keyword": ""
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 19,
+      "keyword": ""
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 19,
+      "keyword": "Karangsambung {6} | Longsoran {5} | NDVI {4} | geologi teknik {3} | Limpasan {2} | meander {2} | AHP {2} | curah hujan {2} | Sungai Lukulo {2} | geoteknik {2} | Penginderaan jauh {2} | sifat kembang-susut {2} | Airtanah {2} | Gerakan tanah {2} | Luk Ulo {2} | SIG {2} | embung {2} | konservasi {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | karangsambung {1} | longsor {1} | karangambung {1} | model {1} | mitigasi bencana {1} | Karangsambung Satuan Genetika Wilayah {1} | TPA Kaligending {1} | Longsor {1} | kebumen {1} | Karangambung {1} | faktor pengontrol {1} | Geoteknik {1} | Air tanah {1} | "
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "value": 18,
+      "keyword": ""
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "value": 18,
+      "keyword": ""
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "value": 18,
+      "keyword": "geologi teknik {2} | amblesan tanah {2} | bahaya likuifaksi {2} | cekungan alluvial {1} | Investigasi Geoteknik {1} | CPT {1} | biaya ekonomis {1} | Opak Fault {1} | Likuifaksi {1} | dataran aluvial {1} | kerusakan fisik {1} | Semarang {1} | Amblesan Tanah {1} | gempa bumi {1} | penurunan tanah {1} | Earthquake {1} | dataran alluvial {1} | Penurunan {1} | Tanah Longsor {1} | Faktor {1} | Penyebab {1} | Patahan Opak {1} | amblesan {1} | Kestabilan Lereng {1} | penurunan {1} | Liquefaction {1} | gempabumi {1} | Kontribusi {1} | Cut Slope Chart {1} | kota Semarang {1} | Kota Semarang {1} | lempung kembang kerut {1} | Gempabumi {1} | Badan Jalan {1} | penampang bawah permukaan {1} | Analysis {1} | Investigation {1} | Geotechnical {1} | lempung {1} | "
+    },
+    {
+      "source": 14,
+      "target": 6,
+      "value": 18,
+      "keyword": "Karangsambung {6} | Longsoran {5} | NDVI {4} | geologi teknik {3} | Limpasan {2} | meander {2} | AHP {2} | curah hujan {2} | Sungai Lukulo {2} | geoteknik {2} | Penginderaan jauh {2} | sifat kembang-susut {2} | Airtanah {2} | Gerakan tanah {2} | Luk Ulo {2} | SIG {2} | embung {2} | konservasi {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | karangsambung {1} | longsor {1} | karangambung {1} | model {1} | mitigasi bencana {1} | Karangsambung Satuan Genetika Wilayah {1} | TPA Kaligending {1} | Longsor {1} | kebumen {1} | Karangambung {1} | faktor pengontrol {1} | Geoteknik {1} | Air tanah {1} | "
+    },
+    {
+      "source": 14,
+      "target": 7,
+      "value": 18,
+      "keyword": "Karangsambung {6} | Longsoran {5} | NDVI {4} | geologi teknik {3} | Limpasan {2} | meander {2} | AHP {2} | curah hujan {2} | Sungai Lukulo {2} | geoteknik {2} | Penginderaan jauh {2} | sifat kembang-susut {2} | Airtanah {2} | Gerakan tanah {2} | Luk Ulo {2} | SIG {2} | embung {2} | konservasi {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | karangsambung {1} | longsor {1} | karangambung {1} | model {1} | mitigasi bencana {1} | Karangsambung Satuan Genetika Wilayah {1} | TPA Kaligending {1} | Longsor {1} | kebumen {1} | Karangambung {1} | faktor pengontrol {1} | Geoteknik {1} | Air tanah {1} | "
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "value": 17,
+      "keyword": ""
+    },
+    {
+      "source": 17,
+      "target": 8,
+      "value": 16,
+      "keyword": ""
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "value": 16,
+      "keyword": ""
+    },
+    {
+      "source": 20,
+      "target": 7,
+      "value": 16,
+      "keyword": "Karangsambung {6} | NDVI {4} | Limpasan {2} | meander {2} | AHP {2} | Longsoran {2} | Sungai Lukulo {2} | longsor {2} | Penginderaan jauh {2} | Airtanah {2} | Luk Ulo {2} | SIG {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | mountain front sinuosity (Smf) {1} | lingkungan fisik {1} | Vf {1} | morfotektonik {1} | karangambung {1} | model {1} | geoteknik {1} | Karangsambung Satuan Genetika Wilayah {1} | sesar aktif {1} | TPA Kaligending {1} | sistem informasi geografis {1} | konservasi {1} | risiko {1} | kerugian lingkungan {1} | Longsor {1} | Karangambung {1} | Geoteknik {1} | Air tanah {1} | sosial-masyarakat {1} | "
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "value": 16,
+      "keyword": "antikorosi {3} | cat {3} | antifouling {3} | dissolved oxygen {1} | consumption rate {1} | galvanostatic {1} | Polarization {1} | total dissolved solids {1} | Aklirik {1} | Antifouling {1} | Scanning Electron Microscope {1} | immersion test {1} | Hidroksil {1} | Muara Baru Jakarta {1} | Magnesium sacrificial anode {1} | Imidazoline Salt {1} | conductivity {1} | current efficiency {1} | seawater {1} | mild steel {1} | Antikorosi {1} | Korosi {1} | cathodic protection {1} | steel structures {1} | salinity {1} | Brine Water {1} | Muara Baru {1} | Katoda {1} | Alloy {1} | Tafel {1} | Flouresensi {1} | EIS {1} | Hidroksilasi {1} | current capacity {1} | Corrosion {1} | closed potential {1} | Cat {1} | Pitting potential {1} | Inhibitor {1} | Open circuit potential {1} | "
+    },
+    {
+      "source": 23,
+      "target": 8,
+      "value": 15,
+      "keyword": ""
+    },
+    {
+      "source": 20,
+      "target": 6,
+      "value": 15,
+      "keyword": "Karangsambung {6} | NDVI {4} | Limpasan {2} | meander {2} | AHP {2} | Longsoran {2} | Sungai Lukulo {2} | Penginderaan jauh {2} | Airtanah {2} | Luk Ulo {2} | SIG {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | satuan genetika wilayah {1} | longsor {1} | cagar alam geologi Karangsambung {1} | karangambung {1} | model {1} | geoteknik {1} | Karangsambung Satuan Genetika Wilayah {1} | TPA Kaligending {1} | konservasi {1} | Longsor {1} | Karangambung {1} | Geoteknik {1} | Air tanah {1} | penambangan diabas {1} | "
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "value": 15,
+      "keyword": "Marine Algae {4} | Beauty {1} | treatment {1} | Neuroprotection {1} | Reactive Oxygen Species {1} | cosmeceuticals {1} | prospects {1} | non-communicable diseases {1} | industry {1} | bioactive peptide {1} | Chitooligosaccharides {1} | marine {1} | Neoechinulin A {1} | Female {1} | Amyloid-? {1} | Natural Pigments {1} | sea cucumber {1} | trends {1} | prevention {1} | BV2 {1} | Health {1} | Neuroinflammation {1} | Fucoidan {1} | Longevity {1} | Ulvan {1} | Antioxidant {1} | Pro-inflammatory Mediators {1} | Microglia {1} | Neuroprotective {1} | Alzheimer\u0027s Disease {1} | Sulfated Polysaccharides {1} | Carrageenan {1} | Anticancer {1} | Anti-inflammatory {1} | "
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "value": 15,
+      "keyword": "Macrobrachium sintangense {3} | ketahanan alami {1} | Ikan Gurami strain Padang {1} | habitat {1} | Infeksi Aeromonas {1} | sintang shrimp {1} | distribusi ukuran {1} | ikan Gurami {1} | nature population condition {1} | ikan endemis {1} | Budidaya perikanan air tawar {1} | suhu {1} | Rasbora argyrotaenia {1} | habitat buatan {1} | suitable environment {1} | aspek biologi {1} | Aeromonas hydrophila {1} | Danau Maninjau {1} | pertumbuhan {1} | penyakit aeromonas {1} | faktor kondisi {1} | adaptasi {1} | Ketahanan alami {1} | protein content {1} | Ikan bada (Rasbora argyrotaenia) {1} | pelestarian {1} | "
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "value": 14,
+      "keyword": "Indonesia {3} | Ciliwung River {1} | Seepage {1} | suhu efektif {1} | Uji Perlokasi {1} | springs {1} | keluaran airtanah lepas pantai (KALP) {1} | Ion Utama {1} | Lombok Landsat 7 {1} | hidrogeokimia {1} | Pasir Lepas {1} | Interaksi Airtanah-badan Air {1} | Diagram Piper {1} | Pulau Lombok Utara {1} | unconfined aquifer {1} | Jakarta Bay {1} | BOD {1} | Seasonal Variatio {1} | 222Radon {1} | keluaran air tanah di lepas pantai {1} | Gambut {1} | temporal {1} | Nilai Permeabilitas {1} | Landsat 8 {1} | nitrogen {1} | submarine groundwater discharge {1} | Submarine groundwater discharge {1} | fosfat {1} | Pulau Tinjil {1} | Natural Attenuation Process {1} | River Groundwater Interactions {1} | Jakarta {1} | Multivariate Diagram {1} | spasial {1} | Sanggau {1} | Jakarta megacities {1} | fresh water {1} | Sumber Daya Air {1} | coastal {1} | "
+    },
+    {
+      "source": 14,
+      "target": 20,
+      "value": 14,
+      "keyword": "Karangsambung {6} | NDVI {4} | Limpasan {2} | meander {2} | AHP {2} | Longsoran {2} | Sungai Lukulo {2} | Penginderaan jauh {2} | Airtanah {2} | Luk Ulo {2} | SIG {2} | DAS Grompol {2} | penambangan pasir {2} | Konservasi {1} | boudin {1} | struktur {1} | longsor {1} | karangambung {1} | model {1} | mélange {1} | geoteknik {1} | deformasi {1} | Karangsambung Satuan Genetika Wilayah {1} | TPA Kaligending {1} | konservasi {1} | Longsor {1} | Karangambung {1} | Geoteknik {1} | Air tanah {1} | "
+    },
+    {
+      "source": 30,
+      "target": 26,
+      "value": 14,
+      "keyword": "pertumbuhan {4} | Macrobrachium sintangense {4} | sintasan {3} | pH {2} | habitat {1} | shelter {1} | Growth {1} | tetua terbaik {1} | distribusi ukuran {1} | pertumbuhan panjang {1} | kelangsungan hidup {1} | Reproduction {1} | morfometri {1} | udang sintang (Macrobrachium sintangense de Man) {1} | M. sintangense {1} | warna {1} | pertumbuhan berat {1} | suitable environment {1} | Color {1} | Survival {1} | Ikan Pelangi Biru (Melanotaenia Lacustris) {1} | udang regang {1} | faktor kondisi {1} | jarak genetik {1} | Spirulina {1} | adaptasi {1} | strain parung {1} | hibridisasi antara strain {1} | ikan gurami {1} | strain padang {1} | Melanotaenia praecox {1} | kepadatan {1} | "
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "value": 14,
+      "keyword": ""
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "value": 13,
+      "keyword": "Pulau Simeulue {3} | bancuh {2} | petrografi {2} | tektonik {2} | kataklastik {2} | citra {2} | kubah lumpur {2} | percepatan tanah puncak {2} | deterministik {1} | Polarization Direction {1} | prisma akresi {1} | Shear Wave Splitting {1} | sesar anjak {1} | kompleks subduksi {1} | Ambient Noise {1} | pengurangan resiko bencana {1} | gempa bumi {1} | respon seismik {1} | focal mechanism {1} | mud diapir {1} | gempabumi {1} | H/V Spectral Ratio {1} | Delay Time {1} | Site Response {1} | Seismicity {1} | P and T axes {1} | Fundamental Frequency {1} | Sunda-Banda Arc Transition Zone {1} | Seismic Anisotropy {1} | Sunda-Banda arc transition {1} | Amplification Factor {1} | kompleks melange {1} | Simeulue Island {1} | Receiver Function {1} | Crustal Structure {1} | Banda Arc-Continent Collision {1} | "
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "value": 13,
+      "keyword": "hidrotermal {2} | Lava {2} | Urat Kuarsa {1} | Sulfida {1} | Alterasi {1} | Inklusi Fluida {1} | petrografi {1} | alterasi {1} | Alteration {1} | mataair panas {1} | Andesit {1} | XRD {1} | Pembawa logam {1} | XRF {1} | Epitermal {1} | Andesit-basaltik {1} | lava {1} | andesit {1} | Mineralization {1} | morfostratigrafi {1} | Mineralisasi {1} | kalk alkalin {1} | Emas {1} | tekstur {1} | jebakan {1} | SiO2 {1} | andesit basaltik {1} | Cihonje {1} | Argilik {1} | breksi laharik {1} | kaldera {1} | mineralisasi {1} | K2O {1} | Propilitik {1} | Cupunagara {1} | basal {1} | Hydrothermal {1} | struktur geologi {1} | Tuf Breksi {1} | Granit biotit {1} | sulfida rendah {1} | mata air panas {1} | Paragenesis {1} | breksi {1} | kelurusan struktur {1} | mineragrafi {1} | prospek panasbumi {1} | morfostruktur {1} | "
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "value": 13,
+      "keyword": "Ocean {3} | Indonesia {3} | Antibacterial {2} | biological activities {2} | secondary metabolites {2} | octocorals {2} | Biological Activities {2} | marine invertebrates {2} | Natural Products {2} | Antifungal {1} | Vibrio Eltor {1} | Lead Compounds {1} | Extract {1} | Mataram {1} | Radical {1} | Biological activities {1} | Secondary Metabolites {1} | Extraction {1} | Soft Corals {1} | Scavenging {1} | Sea Cucumber {1} | Sponges {1} | Anambas Islands {1} | Lombok {1} | Sinularia Sp. {1} | Natural products {1} | Antioxidant Capacity {1} | Anti-inflammatory {1} | Holothurian Sea Cucumber {1} | "
+    }
+  ]
+}
